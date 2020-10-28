@@ -1,5 +1,5 @@
 # Momentum
- Vanilla JS만을 통해 만든 크롬 앱
+ 순수 Vanilla JS만을 이용하여 만든 크롬 앱
  
 ## 기능
 
@@ -8,4 +8,11 @@
 + API를통한 현재 날씨
 + 이쁜 랜덤 배경화면(?)
 
+## 미리보기
 
+![image](https://user-images.githubusercontent.com/72514247/97469233-86571500-1989-11eb-9a94-898d8f175ba6.png)
+
+
+## 이용해보자
+
+https://mini4614.github.io/Momentum/
