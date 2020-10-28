@@ -11,3 +11,5 @@
 ## Preview
 
 https://mini4614.github.io/Momentum/
+
+![image](https://user-images.githubusercontent.com/72514247/97469233-86571500-1989-11eb-9a94-898d8f175ba6.png)
