@@ -1,0 +1,12 @@
+
+.form, .greeting {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
+
+.toDoList {
+    list-style: none;
+}
