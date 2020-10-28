@@ -93,6 +93,7 @@ body {
     z-index: -1;
     animation: fadeIn 2s linear;
     filter:brightness(60%);
+    object-fit: cover;
 }
 
 .container{
@@ -112,6 +113,7 @@ body {
     position: absolute;
     top:10px;
     right:10px;
+    font-size: 17px;
 }
 
 .toDoList{
@@ -119,7 +121,7 @@ body {
     
 
    width: 20%;
-   height: 20%;
+   height: 10%;
 
 
    margin: 0 auto;
@@ -135,8 +137,4 @@ body {
     margin: 10px;
 }
 
-.toDoList button {
-  
-    
-   
-}
+ 
