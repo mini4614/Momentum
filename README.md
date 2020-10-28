@@ -1,5 +1,5 @@
 # Momentum
- Vanilla JS만을 통해 만든 크롬 앱
+ 순수 Vanilla JS만을 이용하여 만든 크롬 앱
  
 ## 기능
 
