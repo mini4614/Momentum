@@ -7,3 +7,7 @@
 + 오늘의 할일 
 + API를통한 현재 날씨
 + 이쁜 랜덤 배경화면(?)
+
+## Preview
+
+https://mini4614.github.io/Momentum/
