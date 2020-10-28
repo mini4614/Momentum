@@ -8,7 +8,7 @@
 + API를통한 현재 날씨
 + 이쁜 랜덤 배경화면(?)
 
-## Preview
+## 미리보기
 
 ![image](https://user-images.githubusercontent.com/72514247/97469233-86571500-1989-11eb-9a94-898d8f175ba6.png)
 
