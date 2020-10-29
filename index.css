@@ -122,19 +122,32 @@ body {
 
    width: 20%;
    height: 10%;
-
+min-width: 150px;
 
    margin: 0 auto;
 }
 
 .clock {
-    font-size: 120px;
+    font-size: 110px;
 }
 
 .toDoList li{
+    
     display: flex;
     justify-content: space-between;
     margin: 10px;
+    
+}
+
+.toDoList button{
+    background-color: transparent !important;
+    background-image: none !important;
+    border-color: transparent;
+    border: none;
+
+    color: #FFFFFF;
+
+
 }
 
  
