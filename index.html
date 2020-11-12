@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Momentum</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;500;900&display=swap" rel="stylesheet"> 
 
@@ -16,26 +17,28 @@
         <div class="js-clock clock">
             <h1>00:00</h1>
         </div>
-    <form action="" class="js-form form">
-        <input type="type" placeholder="Please enter your name"/>
-    </form>
+
 
     <h4 class="js-greeting greeting"></h4>
-    
+    <form action="" class="js-form form form-group">
+        <input class="form-control" type="type" placeholder="Please enter your name"/>
+    </form>
     <form  class="js-toDoForm">
-        <input type="text" placeholder="Please enter your task"/>
+        <input type="text" class="form-control" placeholder="Please enter your task"/>
     </form>
 
 
-</div>
 <ul class="js-toDoList toDoList">
 </ul>
 <span class="js-weather weather"></span>
-  
+
+</div>
+
+
     <script src="clock.js"></script>
     <script src="gretting.js"></script>
     <script src="todo.js"></script>
     <script src="bg.js"></script>
     <script src="weather.js"></script>
-</body>
+ </body>
 </html>

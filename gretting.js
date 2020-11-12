@@ -21,6 +21,7 @@ function saveName(text) {
 function askForName() {
     form.classList.add(SHOWING_CN);
     form.addEventListener("submit",handleSubmit);
+    
 }
 
 function paintGreeting(text) {
@@ -40,8 +41,9 @@ function loadName(){
 
 function init() {
     loadName();
-   
+    
+    
 }
-
+// $('#modal-btn').trigger('click');
 init();
 
