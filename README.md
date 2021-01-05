@@ -15,4 +15,4 @@
 
 ## 이용해보자
 
-https://mini4614.github.io/Momentum/
+https://morethanmin.github.io/Momentum/
