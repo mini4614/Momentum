@@ -4,7 +4,7 @@
  
  server api에서 정보를 받아오고 간단한 기능구현을 통해 front-end의 전반적인 흐름을 학습하였습니다.
  
-## skill
+## Skill
  
 `vanila Js`
  
