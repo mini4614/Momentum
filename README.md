@@ -6,7 +6,7 @@
  
 ## skill
  
-vanila Js
+`vanila Js`
  
 ## 기능
 
